@@ -32,7 +32,6 @@ public class WeaponCodeGeneratorSample {
 		// OpenXOPSのソースコードを出力する。
 		var generator = new WeaponCodeGenerator();
 		String code = generator.generate(weapons);
-
 		System.out.println(code);
 	}
 }
