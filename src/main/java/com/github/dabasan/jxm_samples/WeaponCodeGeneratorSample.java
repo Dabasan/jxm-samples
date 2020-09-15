@@ -9,7 +9,7 @@ import com.github.dabasan.jxm.properties.weapon.openxops.WeaponCodeGenerator;
 import com.github.dabasan.jxm.properties.xops.EXEManipulator;
 
 /**
- * OpenXOPSのソースコードから武器情報を出力するサンプルコード<br>
+ * 武器情報をOpenXOPSのソースコード形式で出力するサンプルコード<br>
  * XOPSの実行ファイルから読み込んだ武器情報をOpenXOPSのソースコード形式で出力する。
  * 
  * @author Daba
