@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.github.dabasan</groupId>
-	<artifactId>jxm-samples</artifactId>
+	<artifactId>jxm-samples-v0</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>jxm-samples</name>
-	<url>https://github.com/Dabasan/jxm-samples</url>
+	<name>jxm-samples-v0</name>
+	<url>https://github.com/Dabasan/jxm-samples-v0</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
